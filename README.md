@@ -55,13 +55,13 @@
 
 1. Write a program that asks the user for an integer. Display an error message if the number is between 15 and 25 or between 45 and 50 (inclusive).
 
-    Write a program that asks for a number that displays the message "SENAC" if this number is 13, 26, 42 or 70.
+   Write a program that asks for a number that displays the message "SENAC" if this number is 13, 26, 42 or 70.
 
 2. Write a program that asks the user for a number and displays a message if this number is greater than 80, less than 25 or equal to 40.
 
 3. Write an algorithm that reads three integer values and checks if they can be the measures of the sides of a triangle.
-  
-    Property: the length of each side of a triangle is less than the sum of the lengths of the other two sides.
+
+   Property: the length of each side of a triangle is less than the sum of the lengths of the other two sides.
 
 4. Increment the previous exercise, in case the measures form a valid triangle, inform which type of triangle they form: equilateral, isosceles or scalene.
 
@@ -71,3 +71,96 @@
 
 # List IV
 
+1. Write a program that draws a number from 1 to 10 and gives the user two chances to get it right.
+
+   Write a program that draws a number from 1 to 10, gives the user two chances to get it right, but informs if the drawn number is greater or less than the first guess.
+
+   Do the same previous program, now with 3 guesses.
+
+2. Write a program that draws two numbers from 1 to 5 and asks the user to get both numbers, not necessarily in the same order.
+
+3. Write a program that draws two numbers from 1 to 10. Inform how many of these numbers are between 3 and 7 (inclusive).
+
+4. Write a program that plays even or odd with the user.
+
+#
+
+# List V
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+#
+
+# List VI
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+#
+
+# List VII
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+#
+
+# List VIII
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+#
+
+# List IX
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+#
