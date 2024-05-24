@@ -1,8 +1,3 @@
-// 3 - Escrever um algoritmo que leia três valores inteiros e verifique se eles podem ser as medidas dos lados de um triângulo.
-// Propriedade: o comprimento de cada lado de um triângulo é menor do que a soma dos comprimentos dos outros dois lados.
-// 4 - Incremente o exercício anterior, para o caso das medidas formarem um triângulo válido , informar qual o tipo de triângulo que eles formam: equilátero, isósceles ou escaleno.
-// 5 -  Incremente o exercício anterior, agora informando se este é também um triângulo retângulo.
-
 /**
  * Write an algorithm that reads three integer values and checks if they can be the measures of the sides of a triangle.
  * Property: the length of each side of a triangle is less than the sum of the lengths of the other two sides.
