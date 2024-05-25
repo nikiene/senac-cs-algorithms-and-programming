@@ -175,7 +175,7 @@
 
 # List IX
 
-1. 
+1. Write a 3x3 matrix of integers, associate the value 8 with the central element of this matrix. Display the matrix on the screen properly.
 
 2. 
 
