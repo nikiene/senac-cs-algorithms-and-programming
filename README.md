@@ -97,7 +97,7 @@
 
 4. Write a program that displays the sum of the numbers from 1 to 100
 
-5. 
+5. Write a program that requests 10 numbers and at the end displays the sum of all of them.
 
 6. 
 
