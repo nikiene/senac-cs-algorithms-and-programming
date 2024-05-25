@@ -161,7 +161,7 @@
 
 2. Write a program that reads 5 numbers and displays the ones that are above the average.
 
-3. 
+3. Write a program that creates a vector of 100 positions, fills it with random numbers from 1 to 100. Display the average of these.
 
 4. 
 
