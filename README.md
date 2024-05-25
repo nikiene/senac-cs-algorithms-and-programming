@@ -139,7 +139,7 @@
 
 # List VII
 
-1. 
+1. Write a program that receives 5 integers and displays the smallest.
 
 2. 
 
@@ -148,8 +148,6 @@
 4. 
 
 5. 
-
-6. 
 
 #
 
