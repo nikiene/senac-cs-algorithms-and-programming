@@ -107,7 +107,7 @@
 
 # List VI
 
-1. 
+1. Write a program that requests a number and then says if it is a perfect number.
 
 2. 
 
