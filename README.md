@@ -183,7 +183,9 @@
 
    Then assign the character "8" to a random element of the matrix. Display the matrix on the screen.
 
-3. 
+3. Write a 20x20 integer matrix. Fill with random numbers between 10 and 99.
+
+   Show the sum of the values of all rows of this matrix, and inform which row has the highest value.
 
 4. 
 
