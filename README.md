@@ -157,7 +157,7 @@
 
 # List VIII
 
-1. 
+1. Write a program that creates a vector of 10 positions and inserts the number 8 in all positions.
 
 2. 
 
