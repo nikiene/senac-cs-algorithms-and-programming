@@ -147,7 +147,11 @@
 
 4. Write a program that asks for a number and then displays the factorial of this number.
 
-5. 
+5. Write a program that asks the user for 3 numbers from 1 to 60.
+
+   The program will then continuously draw 3 numbers from 1 to 60 until the 3 tens entered by the user are drawn.
+
+   In the end, it should display how many draws were made.
 
 #
 
