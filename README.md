@@ -141,7 +141,7 @@
 
 1. Write a program that receives 5 integers and displays the smallest.
 
-2. 
+2. Write a program that receives integers until the user types 0 and then displays the largest and smallest.
 
 3. 
 
