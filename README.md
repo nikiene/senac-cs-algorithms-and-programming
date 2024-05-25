@@ -95,7 +95,7 @@
 
 3. Write a program that asks the user for 5 numbers, and for each number entered, informs whether it is even or odd.
 
-4. 
+4. Write a program that displays the sum of the numbers from 1 to 100
 
 5. 
 
