@@ -1,5 +1,7 @@
 // Write a program that creates a vector of 100 positions, fills it with random numbers from 1 to 100. Display the average of these.
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 int main()
 {
@@ -7,6 +9,8 @@ int main()
     int i;
     int sum = 0;
     float average;
+
+    srand(time(NULL));
 
     for (i = 0; i < 100; i++)
     {
