@@ -93,7 +93,7 @@
 
 2. Write a program that displays the square of all numbers from 1 to 20.
 
-3. 
+3. Write a program that asks the user for 5 numbers, and for each number entered, informs whether it is even or odd.
 
 4. 
 
