@@ -165,7 +165,11 @@
 
 4. Write a program that creates and fills the same vector of 100 numbers. Calculate the sum of all numbers that are below the average of the last 10.
 
-5. 
+5. Write a program that creates and fills the same vector of 100 numbers. Calculate the sum of all numbers that are below the average of the last 10.
+
+   Write the contents of the vector from the previous exercise on the screen, placing each value next to the previous one (on the same line).
+
+   If the vector value is a multiple of 10, then insert a line break.
 
 #
 
