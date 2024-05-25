@@ -145,7 +145,7 @@
 
 3. Write a program that draws 10 even numbers between 1 and 100 and displays them on the screen. (how to ensure that the draw displays only even numbers?)
 
-4. 
+4. Write a program that asks for a number and then displays the factorial of this number.
 
 5. 
 
