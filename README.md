@@ -143,7 +143,7 @@
 
 2. Write a program that receives integers until the user types 0 and then displays the largest and smallest.
 
-3. 
+3. Write a program that draws 10 even numbers between 1 and 100 and displays them on the screen. (how to ensure that the draw displays only even numbers?)
 
 4. 
 
