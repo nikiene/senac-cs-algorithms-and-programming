@@ -163,7 +163,7 @@
 
 3. Write a program that creates a vector of 100 positions, fills it with random numbers from 1 to 100. Display the average of these.
 
-4. 
+4. Write a program that creates and fills the same vector of 100 numbers. Calculate the sum of all numbers that are below the average of the last 10.
 
 5. 
 
