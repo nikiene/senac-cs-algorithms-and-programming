@@ -133,7 +133,7 @@
 
    The answer is given with (0/1). The program continues to show the CODE of the tallest, and the average height.
 
-6. 
+6. Write a program that asks for a number and then says if this number is prime.
 
 #
 
