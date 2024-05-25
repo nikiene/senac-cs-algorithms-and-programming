@@ -187,7 +187,7 @@
 
    Show the sum of the values of all rows of this matrix, and inform which row has the highest value.
 
-4. 
+4. Utilizing the same matrix, display the sum of the elements of the main diagonal.
 
 5. 
 
