@@ -87,7 +87,9 @@
 
 # List V
 
-1.
+1. Write a program that displays any complete multiplication table.
+   
+   The program should ask the user which multiplication table he wants to view, who will respond by entering a number from 1 to 10.
 
 2.
 
