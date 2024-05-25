@@ -99,7 +99,7 @@
 
 5. Write a program that requests 10 numbers and at the end displays the sum of all of them.
 
-6. 
+6. Write a program that asks the user for a number, and then displays all its dividers.
 
 7. 
 
