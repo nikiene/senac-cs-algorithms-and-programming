@@ -189,7 +189,7 @@
 
 4. Utilizing the same matrix, display the sum of the elements of the main diagonal.
 
-5. 
+5. Write a program that reads a word and displays how many "A" letters this word has.
 
 6. 
 
