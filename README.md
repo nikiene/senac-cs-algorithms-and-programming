@@ -109,7 +109,11 @@
 
 1. Write a program that requests a number and then says if it is a perfect number.
 
-2. 
+2. Write a program that draws a number from 1 to 10 and gives the user two chances to get it right.
+
+ Write a program that draws a number from 1 to 10, gives the user two chances to get it right, but informs if the drawn number is greater or less than the first guess.
+
+ Write the same program as before, now with 3 guesses.
 
 3. 
 
