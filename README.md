@@ -177,7 +177,11 @@
 
 1. Write a 3x3 matrix of integers, associate the value 8 with the central element of this matrix. Display the matrix on the screen properly.
 
-2. 
+2. Write a 10x10 character matrix.
+
+   Assign the letter "B" to all elements of the matrix.
+
+   Then assign the character "8" to a random element of the matrix. Display the matrix on the screen.
 
 3. 
 
