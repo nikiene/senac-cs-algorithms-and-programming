@@ -117,9 +117,21 @@
 
 3. Write a program that calculates the sum of all even numbers from 25 to 200.
 
-4. 
+4. Write a program that requests the code and height of 5 athletes.
 
-5. 
+   At the end of the data entry, inform the HEIGHT of the tallest athlete.
+
+5. Write a program that requests the code and height of 5 athletes.
+
+   At the end of the data entry, inform the CODE of the tallest athlete.
+
+   Also inform the average height of these 5 athletes.
+
+   Do not restrict data entry to only 5 athletes.
+
+   Now after including each athlete the program should ask the user if they want to include another.
+
+   The answer is given with (0/1). The program continues to show the CODE of the tallest, and the average height.
 
 6. 
 
