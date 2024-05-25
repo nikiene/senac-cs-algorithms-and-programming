@@ -159,7 +159,7 @@
 
 1. Write a program that creates a vector of 10 positions and inserts the number 8 in all positions.
 
-2. 
+2. Write a program that reads 5 numbers and displays the ones that are above the average.
 
 3. 
 
