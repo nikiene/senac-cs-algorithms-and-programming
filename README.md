@@ -88,81 +88,81 @@
 # List V
 
 1. Write a program that displays any complete multiplication table.
-   
+
    The program should ask the user which multiplication table he wants to view, who will respond by entering a number from 1 to 10.
 
-2.
+2. Write a program that displays the square of all numbers from 1 to 20.
 
-3.
+3. 
 
-4.
+4. 
 
-5.
+5. 
 
-6.
+6. 
 
-7.
+7. 
 
 #
 
 # List VI
 
-1.
+1. 
 
-2.
+2. 
 
-3.
+3. 
 
-4.
+4. 
 
-5.
+5. 
 
-6.
+6. 
 
 #
 
 # List VII
 
-1.
+1. 
 
-2.
+2. 
 
-3.
+3. 
 
-4.
+4. 
 
-5.
+5. 
 
-6.
+6. 
 
 #
 
 # List VIII
 
-1.
+1. 
 
-2.
+2. 
 
-3.
+3. 
 
-4.
+4. 
 
-5.
+5. 
 
 #
 
 # List IX
 
-1.
+1. 
 
-2.
+2. 
 
-3.
+3. 
 
-4.
+4. 
 
-5.
+5. 
 
-6.
+6. 
 
 #
