@@ -101,7 +101,7 @@
 
 6. Write a program that asks the user for a number, and then displays all its dividers.
 
-7. 
+7. Write a program that asks the user to enter a number between 10 and 20. If an invalid number is entered, ask again until a correct number is entered.
 
 #
 
