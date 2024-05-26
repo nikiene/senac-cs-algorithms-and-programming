@@ -12,10 +12,9 @@
 
 int main()
 {
-    int code, tallest_code;
+    int code, tallest_code, include_another;
     float height, tallest_height, average_height, sum_height;
     int athletes = 0;
-    char include_another;
 
     do
     {
