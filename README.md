@@ -202,3 +202,48 @@
    The program should repeat until the user enters 5.
 
 #
+
+# RUN
+
+* Setup:
+  
+  Install the GCC C Compiler and the Make program.
+  
+  For Windows users:
+  
+    You will need to install some kind of Linux environment on your machine. You can use a Virtual Machine or WSL (Official Microsoft WSL guide: https://learn.microsoft.com/pt-br/windows/wsl/about).
+    After installing your preferred Linux distribution, you will need to run this command inside the bash: 
+    ```
+    bash
+    sudo apt-get install gcc make
+    ```
+  
+  For Mac users:
+  
+    Run this on your terminal:
+    ```
+    xcode-select --install
+    ```
+  For Linux users:
+  
+    Run this on your terminal:
+    ```
+    sudo apt-get install gcc make
+    ```
+
+  Now that everything is set up, we can actually run the program!
+
+* Running:
+
+    Inside the project folder just type in this command:
+    ```
+    make
+    ```
+    
+    It compiles the code and generates an binary for each file inside each folder.
+
+    Then you just run one of them, of course changing "directoryName" and "filename" for the actual values, for example ```./List1/bmi```!
+
+    ```
+    ./{directoryName}/{filename}
+    ```
