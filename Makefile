@@ -7,7 +7,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra -std=c99
 
 # Directories
-DIRS = List1 List2 List3 List4 List5 List6 List7 List8 List9
+DIRS = list1 list2 list3 list4 list5 list6 list7 list8 list9
 
 # Programs
 PROGS = $(foreach dir,$(DIRS),$(wildcard $(dir)/*.c))
