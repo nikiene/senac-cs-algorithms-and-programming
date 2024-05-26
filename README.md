@@ -242,7 +242,7 @@
     
     It compiles the code and generates an binary for each file inside each folder.
 
-    Then you just run one of them, of course changing "directoryName" and "filename" for the actual values, for example ```./List1/bmi```!
+    Then you just run one of them, of course changing "directoryName" and "filename" for the actual values, for example ```./list1/bmi```!
 
     ```
     ./{directoryName}/{filename}
