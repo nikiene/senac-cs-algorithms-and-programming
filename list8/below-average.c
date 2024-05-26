@@ -1,35 +1,31 @@
 // Write a program that creates and fills the same vector of 100 numbers. Calculate the sum of all numbers that are below the average of the last 10.
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 int main()
 {
     int vector[100];
-    int i;
-    int sum = 0;
-    float average;
-    int lastTenSum = 0;
-    float lastTenAverage;
+    int i, sum = 0;
+    float average = 0;
+
+    srand(time(NULL));
 
     for (i = 0; i < 100; i++)
     {
-        vector[i] = rand() % 100 + 1;
-        sum += vector[i];
+        vector[i] = rand() % 100;
     }
-
-    average = sum / 100.0;
 
     for (i = 90; i < 100; i++)
     {
-        lastTenSum += vector[i];
+        average += vector[i];
     }
 
-    lastTenAverage = lastTenSum / 10.0;
-
-    sum = 0;
+    average /= 10;
 
     for (i = 0; i < 100; i++)
     {
-        if (vector[i] < lastTenAverage)
+        if (vector[i] < average)
         {
             sum += vector[i];
         }
