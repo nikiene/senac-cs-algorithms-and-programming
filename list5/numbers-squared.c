@@ -5,7 +5,7 @@ int main()
 {
     for (int i = 1; i <= 20; i++)
     {
-        printf("%d² = %d\n", i, i, i * i);
+        printf("%d² = %d\n", i, i * i);
     }
 
     return 0;
