@@ -191,6 +191,14 @@
 
 5. Write a program that reads a word and displays how many "A" letters this word has.
 
-6. 
+6. Write a program that creates a 10x10 matrix of characters and fills it with spaces. Assign a character "O" to element 5,5.
+
+   The program should ask the user to enter one of the following commands:
+
+   1 - up, 2 - down, 3 - left, 4 - right, 5 - exit.
+
+   The direction commands make the character "O" move through the matrix.
+
+   The program should repeat until the user enters 5.
 
 #
